@@ -1,8 +1,10 @@
 - 👋 Hi, I’m @jerrykress
-- 👀 I’m interested in C++
-- 🌱 I’m currently learning: Boost.Asio, Java and C#
-- 💞️ I’m looking for: Grad Software Engineer Roles
-- 📫 How to reach me: jerrykress.wsj@gmail.com
+- 👀 Mainly using C++ and Python
+- 🏎️ Occasionally on Forza Horizon 5
+- 🌱 Currently learning: Boost.Asio, Java and C#
+- 💞️ Now looking for: Grad Software Engineer Roles
+- 📫 Reach me: jerrykress.wsj@gmail.com
+- 🌟 Send me a star if you like my pinned projects
 
 <!---
 jerrykress/jerrykress is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
