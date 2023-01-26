@@ -2,7 +2,6 @@
 - 👀 Mainly using C++ and Python
 - 🏎️ Occasionally on Forza Horizon 5
 - 🌱 Currently learning: Boost.Asio, Java and C#
-- 💞️ Now looking for: Grad Software Engineer Roles
 - 📫 Reach me: jerrykress.wsj@gmail.com
 - 🌟 Send me a star if you like my pinned projects
 
